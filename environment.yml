@@ -1,0 +1,28 @@
+name: jupyter
+channels:
+  - r
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - ipython
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - nltk
+  - matplotlib
+  - seaborn
+  - bokeh
+  - pymc3
+  - tensorflow
+  - pytorch
+  - keras
+  - scrapy
+  - pyspark
+  - r
+  - r-essentials
